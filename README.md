@@ -22,9 +22,7 @@
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="SQLite" /></a>
 </p>
 
-## 📊 My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadaloreibi&layout=compact&theme=dark&hide_border=true&langs_count=4&hide=html,css,javascript&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
