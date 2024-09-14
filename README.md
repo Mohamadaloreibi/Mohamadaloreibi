@@ -23,9 +23,7 @@
 </p>
 
 
-## 📊 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadaloreibi&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript,shell,php)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 
