@@ -24,7 +24,7 @@
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadaloreibi&hide=html,css,javascript,shell,php&langs_count=8&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadaloreibi&hide=python,css,javascript,shell,php&langs_count=8&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 
 
