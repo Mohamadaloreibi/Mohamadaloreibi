@@ -25,7 +25,9 @@
 
 
 ## 📊 My Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadaloreibi&layout=compact&theme=dark&hide_border=true&langs_count=4&hide=html,css,java,javascript)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadaloreibi&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
