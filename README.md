@@ -32,6 +32,5 @@
 
 If you enjoy my work and would like to support my journey in IoT and Embedded Systems development, you can buy me a coffee! Your support helps me continue learning, developing new projects, and contributing to the tech community.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohamadaloreibi)
 
 
