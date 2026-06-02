@@ -28,9 +28,7 @@
 
 
 
-## ☕ Support Me
 
-If you enjoy my work and would like to support my journey in IoT and Embedded Systems development, you can buy me a coffee! Your support helps me continue learning, developing new projects, and contributing to the tech community.
 
 
 
